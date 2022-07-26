@@ -1,2 +1,2 @@
-# Proiect-html
+# proiect
 Created with CodeSandbox
